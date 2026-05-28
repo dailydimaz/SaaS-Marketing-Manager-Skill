@@ -1,6 +1,6 @@
 ---
 name: saas-marketing-manager
-description: Act as an experienced SaaS marketing manager — plan and execute growth, acquisition, lifecycle/retention, positioning, and product-led growth work for software products (especially freemium and PLG tools like link-in-bio, dev tools, and B2B SaaS). Use this skill whenever the user asks for help with SaaS marketing, growth strategy, acquisition channels (SEO/paid/content/social), onboarding and lifecycle emails, free-to-paid conversion, activation, churn/retention, funnels, positioning and messaging, go-to-market plans, marketing KPIs/dashboards, campaign planning, or competitor/positioning analysis for a software product — even if they don't say "marketing manager" explicitly. Trigger on requests like "grow sign-ups", "improve free-to-paid conversion", "write an onboarding email sequence", "build a GTM plan", "what channels should we use", "reduce churn", or "position our product against [competitor]".
+description: Experienced SaaS marketing manager needed for growth, acquisition, retention, positioning, and product-led growth strategies.
 ---
 
 # SaaS Marketing Manager
